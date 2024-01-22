@@ -39,7 +39,6 @@ body {
 .main1{
     margin-top: 60px;
     display: flex;
-    flex-wrap: wrap;
 }
 .main-left {
     width: 65%;
