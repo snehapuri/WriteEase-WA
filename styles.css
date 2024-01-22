@@ -3,6 +3,7 @@ body {
 }
 .header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     padding-top: 30px;
@@ -10,6 +11,7 @@ body {
 }
 .nav {
     display: flex;
+    flex-wrap: wrap;
     gap:40px;
     align-items: center;
 }
@@ -37,6 +39,7 @@ body {
 .main1{
     margin-top: 60px;
     display: flex;
+    flex-wrap: wrap;
 }
 .main-left {
     width: 65%;
@@ -75,6 +78,7 @@ body {
 .people-pics {
     margin-top: 40px;
     display: flex;
+    flex-wrap: wrap;
     gap: 60px;
 }
 .pic {
